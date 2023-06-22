@@ -1,0 +1,10 @@
+./pytest_cache
+./venv
+./allure-results
+./allure-report
+.pytest_cache
+.idea
+__pycache__
+results.png
+allure-results
+allure-report
